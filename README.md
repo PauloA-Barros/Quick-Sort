@@ -1,0 +1,1 @@
+Este código tem por objetivo mostrar o método de ordenação chamado Quick Sort.
